@@ -1,4 +1,10 @@
 # SqlMap Tamper AES Encrypt 
+
+Track code in the database when the mobile application or application has AES request encryption.
+Keep in mind my code is based on AES 128. Normal coding once base64
+
+https://sqlmap.org/
+
 ## Install Pip For Python
 ``` bash
  pip install Padding
